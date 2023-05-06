@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
-import './App.css'
+import './animal.css'
 import bird from './assets/bird.svg'
 import cat from './assets/cat.svg';
 import cow from './assets/cow.svg';

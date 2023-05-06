@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Animal from './Animal';
+import './App.css'
 
 
 function getRandomAnimal() {
